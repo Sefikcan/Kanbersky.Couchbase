@@ -1,0 +1,12 @@
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Couchbase\Kanbersky.Couchbase.Entity\bin\Debug\netcoreapp3.1\Kanbersky.Couchbase.Entity.deps.json
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Couchbase\Kanbersky.Couchbase.Entity\bin\Debug\netcoreapp3.1\Kanbersky.Couchbase.Entity.dll
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Couchbase\Kanbersky.Couchbase.Entity\bin\Debug\netcoreapp3.1\Kanbersky.Couchbase.Entity.pdb
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Couchbase\Kanbersky.Couchbase.Entity\bin\Debug\netcoreapp3.1\Kanbersky.Couchbase.Core.dll
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Couchbase\Kanbersky.Couchbase.Entity\bin\Debug\netcoreapp3.1\Kanbersky.Couchbase.Core.pdb
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Couchbase\Kanbersky.Couchbase.Entity\obj\Debug\netcoreapp3.1\Kanbersky.Couchbase.Entity.csprojAssemblyReference.cache
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Couchbase\Kanbersky.Couchbase.Entity\obj\Debug\netcoreapp3.1\Kanbersky.Couchbase.Entity.AssemblyInfoInputs.cache
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Couchbase\Kanbersky.Couchbase.Entity\obj\Debug\netcoreapp3.1\Kanbersky.Couchbase.Entity.AssemblyInfo.cs
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Couchbase\Kanbersky.Couchbase.Entity\obj\Debug\netcoreapp3.1\Kanbersky.Couchbase.Entity.csproj.CoreCompileInputs.cache
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Couchbase\Kanbersky.Couchbase.Entity\obj\Debug\netcoreapp3.1\Kanbersky.Couchbase.Entity.csproj.CopyComplete
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Couchbase\Kanbersky.Couchbase.Entity\obj\Debug\netcoreapp3.1\Kanbersky.Couchbase.Entity.dll
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Couchbase\Kanbersky.Couchbase.Entity\obj\Debug\netcoreapp3.1\Kanbersky.Couchbase.Entity.pdb

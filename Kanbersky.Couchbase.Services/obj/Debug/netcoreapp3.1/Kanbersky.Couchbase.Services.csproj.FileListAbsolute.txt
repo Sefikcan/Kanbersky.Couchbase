@@ -1,0 +1,14 @@
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Couchbase\Kanbersky.Couchbase.Services\bin\Debug\netcoreapp3.1\Kanbersky.Couchbase.Services.deps.json
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Couchbase\Kanbersky.Couchbase.Services\bin\Debug\netcoreapp3.1\Kanbersky.Couchbase.Services.dll
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Couchbase\Kanbersky.Couchbase.Services\bin\Debug\netcoreapp3.1\Kanbersky.Couchbase.Services.pdb
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Couchbase\Kanbersky.Couchbase.Services\obj\Debug\netcoreapp3.1\Kanbersky.Couchbase.Services.csprojAssemblyReference.cache
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Couchbase\Kanbersky.Couchbase.Services\obj\Debug\netcoreapp3.1\Kanbersky.Couchbase.Services.AssemblyInfoInputs.cache
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Couchbase\Kanbersky.Couchbase.Services\obj\Debug\netcoreapp3.1\Kanbersky.Couchbase.Services.AssemblyInfo.cs
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Couchbase\Kanbersky.Couchbase.Services\obj\Debug\netcoreapp3.1\Kanbersky.Couchbase.Services.dll
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Couchbase\Kanbersky.Couchbase.Services\obj\Debug\netcoreapp3.1\Kanbersky.Couchbase.Services.pdb
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Couchbase\Kanbersky.Couchbase.Services\bin\Debug\netcoreapp3.1\Kanbersky.Couchbase.Core.dll
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Couchbase\Kanbersky.Couchbase.Services\bin\Debug\netcoreapp3.1\Kanbersky.Couchbase.Entity.dll
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Couchbase\Kanbersky.Couchbase.Services\bin\Debug\netcoreapp3.1\Kanbersky.Couchbase.Core.pdb
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Couchbase\Kanbersky.Couchbase.Services\bin\Debug\netcoreapp3.1\Kanbersky.Couchbase.Entity.pdb
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Couchbase\Kanbersky.Couchbase.Services\obj\Debug\netcoreapp3.1\Kanbersky.Couchbase.Services.csproj.CopyComplete
+D:\WorkSpaces\Back-end\Microservices\Kanbersky.Couchbase\Kanbersky.Couchbase.Services\obj\Debug\netcoreapp3.1\Kanbersky.Couchbase.Services.csproj.CoreCompileInputs.cache

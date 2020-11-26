@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Kanbersky.Couchbase.Api</name>
+    </assembly>
+    <members>
+        <member name="T:Kanbersky.Couchbase.Api.Controllers.CustomersController">
+            <summary>
+            Customer Controller Operations
+            </summary>
+        </member>
+        <member name="M:Kanbersky.Couchbase.Api.Controllers.CustomersController.#ctor(Kanbersky.Couchbase.Services.Abstract.ICustomerService)">
+            <summary>
+            ctor
+            </summary>
+            <param name="customerService"></param>
+        </member>
+        <member name="M:Kanbersky.Couchbase.Api.Controllers.CustomersController.CreateCustomer(Kanbersky.Couchbase.Services.DTO.Request.CreateCustomerRequestModel)">
+            <summary>
+            Create Customer Operations
+            </summary>
+            <param name="createCustomerRequest"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Kanbersky.Couchbase.Api.Controllers.CustomersController.UpdateCustomer(System.String,Kanbersky.Couchbase.Services.DTO.Request.UpdateCustomerRequestModel)">
+            <summary>
+            Update Customer Operations
+            </summary>
+            <param name="id"></param>
+            <param name="updateCustomerRequest"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Kanbersky.Couchbase.Api.Controllers.CustomersController.GetCustomerById(System.String)">
+            <summary>
+            Get Customer By Id Operations
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Kanbersky.Couchbase.Api.Controllers.CustomersController.DeleteCustomer(System.String)">
+            <summary>
+            Delete Customer By Id Operations
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Kanbersky.Couchbase.Api.Controllers.CustomersController.GetPageableCustomer(Kanbersky.Couchbase.Services.DTO.Request.GetPageableCustomerRequestModel)">
+            <summary>
+            Get Pageable Customer Operations
+            </summary>
+            <param name="requestModel"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Kanbersky.Couchbase.Api.Program">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Kanbersky.Couchbase.Api.Program.Main(System.String[])">
+            <summary>
+            
+            </summary>
+            <param name="args"></param>
+        </member>
+        <member name="M:Kanbersky.Couchbase.Api.Program.CreateHostBuilder(System.String[])">
+            <summary>
+            
+            </summary>
+            <param name="args"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Kanbersky.Couchbase.Api.Startup">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Kanbersky.Couchbase.Api.Startup.#ctor(Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            
+            </summary>
+            <param name="configuration"></param>
+        </member>
+        <member name="P:Kanbersky.Couchbase.Api.Startup.Configuration">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Kanbersky.Couchbase.Api.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            
+            </summary>
+            <param name="services"></param>
+        </member>
+        <member name="M:Kanbersky.Couchbase.Api.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment,Microsoft.Extensions.Hosting.IHostApplicationLifetime)">
+            <summary>
+            
+            </summary>
+            <param name="app"></param>
+            <param name="env"></param>
+            <param name="appLifetime"></param>
+        </member>
+    </members>
+</doc>
